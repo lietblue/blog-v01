@@ -1,7 +1,7 @@
 ---
 title: 在 Proxmox 中使用 Cloud-init 虚拟机模板
 description: 好吃的 Cloud-init 一口可以吃完
-date: 2022-03-06 00:00:00+0000
+date: 1740238334
 ---
 
 
